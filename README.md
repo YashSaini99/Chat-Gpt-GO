@@ -1,9 +1,5 @@
 # CLI ChatGPT Application
 
-![GitHub](https://img.shields.io/github/license/YashSaini99/Chat-Gpt-GO)
-![Go Version](https://img.shields.io/github/go-mod/go-version/YashSaini99/Chat-Gpt-GO)
-![Go Build](https://img.shields.io/github/workflow/status/YashSaini99/Chat-Gpt-G0/Go?label=build)
-
 A simple command-line interface (CLI) application that interacts with OpenAI's GPT-3 using Go. This tool allows you to have a conversation with GPT-3 directly from your terminal.
 
 ## Features
