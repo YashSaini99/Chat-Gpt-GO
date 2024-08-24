@@ -6,7 +6,6 @@ A simple command-line interface (CLI) application that interacts with OpenAI's G
 
 - **Interactive CLI:** Engage in a conversation with GPT-3 directly from the terminal.
 - **Customizable:** Easily configure the API key via a `.env` file.
-- **Command-line arguments:** Execute the application with various commands.
 
 ## Prerequisites
 
