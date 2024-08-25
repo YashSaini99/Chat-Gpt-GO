@@ -23,7 +23,7 @@ A simple command-line interface (CLI) application that interacts with OpenAI's G
 
 2. **Install dependencies:**
 
-   Make sure you have `go-gpt3` and `cobra` packages installed. Run:
+   Make sure you have `viper`, `go-gpt3` and `cobra` packages installed. Run:
 
    ```sh
    go mod tidy
